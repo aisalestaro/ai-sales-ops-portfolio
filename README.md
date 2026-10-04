@@ -7,7 +7,7 @@
 > その結果がチーム受注率 **8% → 45%**、営業・マーケ組織 **25名 → 15名**、営業を介さない受注 **月10件** です。
 
 - 自己紹介ページ: https://jikoshoukai-five.vercel.app
-- ポートフォリオサイト（本リポジトリの読みやすい版）: 公開後に追記
+- ポートフォリオサイト（本リポジトリの読みやすい版）: https://sasaki-ai-portfolio.vercel.app
 - 公開デモ: [未来の営業組織](https://mirai-eigyo-soshiki.vercel.app) ／ [学習ダッシュボード](https://learning-dashboard-demo-black.vercel.app) ／ [AI道場（研修サイト）](https://ai-dojo-demo.vercel.app) ／ [導入事例インタビュー（コレタ）](https://www.coleta.jp/case/cst)
 
 ---
